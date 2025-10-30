@@ -1,70 +1,73 @@
-# 👋 Hello, I'm Anthony Lustri.
+<h1 align="center">Anthony Lustri</h1>
+<h3 align="center">IT System Administrator</h3>
 
-### 🚀 Software Developer | Automation Engineer | Systems & Network Enthusiast
-
-I'm a passionate developer focused on building automation tools, scalable backend systems, and intelligent infrastructure management solutions. I specialize in Python scripting and Discord API integrations for server and community automation — particularly in areas around system monitoring, security, and remote command execution.
-
-I blend full-stack development skills with hands-on IT systems knowledge to build efficient workflows, secure systems, and powerful automation pipelines.
-
----
-
-### 💻 Core Skills
-
-**Programming & Scripting**
-- Python, Java, C#, .NET, VB.NET  
-- PowerShell, Bash/CMD  
-- HTML, PHP, XML, JSON
-
-**Databases**
-- MySQL, Oracle
-
-**Tools & Platforms**
-- GitHub / Git  
-- SailPoint IdentityNow  
-- VMware Workspace ONE  
-- Windows Server Administration
-
-**Networking Knowledge**
-- TCP/IP, UDP  
-- DNS, DHCP, RDP  
-- Wireshark, LAN troubleshooting
+<p align="center">
+Focused on automation, system reliability, and secure infrastructure operations.
+</p>
 
 ---
 
-### 🧠 Current Focus
+### 🧠 About Me
 
-- 🔐 Infrastructure automation & identity management
-- 🤖 Python scripts for server orchestration + Discord API/webhooks
-- 💾 Backup & restore automation systems
-- 🌐 Web services & dashboard design
+I'm an IT System Administrator with hands-on experience in building automated workflows, securing system environments, and managing infrastructure across enterprise environments.  
+I develop Python automation tools, server orchestration scripts, and integrate API-driven workflows (including Discord bots for server control & management).
 
----
-
-### 🛠️ Projects & Interests
-
-- ✅ Discord server automation bot for admin operations
-- 📂 Automated backup scripts for distributed systems
-- ⚙️ CI/CD & DevOps workflow enhancements
-- 🧩 Security-focused monitoring tools
+I enjoy solving infrastructure challenges with code and continually improving systems through automation.
 
 ---
 
-### 📈 Tech Philosophy
+### 🛠️ Technical Skills
 
-> _“Efficiency, automation, and security first — everything else follows.”_
+**Programming & Scripting**  
+Python • PowerShell • Bash/CMD • C# • .NET • VB.NET • Java • PHP • HTML • XML • JSON  
 
-I enjoy solving real-world problems with code, improving workflows, and pushing the boundaries of automation.
+**Systems, IAM & Tools**  
+SailPoint • VMware Workspace • GitHub • Windows Server 
+
+**Databases**  
+MySQL • Oracle  
+
+**Networking**  
+TCP/IP • UDP • DNS • DHCP • LAN/WAN • RDP • Packet Analysis  
+
+**Core Competencies**  
+Infrastructure Administration • Automation • System Hardening • Backup & Disaster Recovery • Endpoint Management • Network Troubleshooting
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Current Focus
 
-- GitHub: **github.com/AnthonyLustri**
-- LinkedIn: *Linkedin.com/AnthonyLustri*
-- Discord: *TechyANT*
+- Python-based server automation
+- Secure infrastructure & access management
+- Backup & recovery automation
+- Network & system monitoring tools
 
 ---
 
-### ⚡ Fun Fact
+### 📊 GitHub Analytics
 
-I enjoy building custom server networks and automation bots — if I can script it, I will automate it. 😎  
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&theme=default&hide_border=false&include_all_commits=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLustri&theme=default&hide_border=false" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLustri&layout=compact&theme=default&hide_border=false" />
+</p>
+
+---
+
+### 🧾 Terminal Intro
+
+```bash
+$ whoami
+> Anthony Lustri
+
+$ role
+> IT System Administrator
+
+$ skills --list
+> Python, PowerShell, C#, MySQL, Automation, Networking, IAM
+
+$ mission
+> Automate. Secure. Optimize. Repeat.
