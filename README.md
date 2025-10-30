@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=38&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=435&lines=Anthony+Lustri" alt="Anthony Lustri"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=3000&pause=600&color=00A2FF&center=true&vCenter=true&width=500&lines=Anthony+Lustri" />
+</p>
 </p>
 <h3 align="center">IT System Administrator</h3>
 
