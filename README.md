@@ -1,16 +1,7 @@
 <p align="center">
-  <svg width="100%" height="80">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00A3FF;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0066FF;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-    font-family="Segoe UI, Roboto, Arial" font-size="42" fill="url(#grad)">
-      Anthony Lustri
-    </text>
-  </svg>
+  <span style="font-size:40px; font-weight:bold; color:#08A9FF; text-shadow:0px 0px 12px #0ab8ff;">
+    Anthony Lustri
+  </span>
 </p>
 </p>
 <h3 align="center">IT System Administrator</h3>
