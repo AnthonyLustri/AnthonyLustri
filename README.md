@@ -5,6 +5,16 @@
 Focused on automation, system reliability, and secure infrastructure operations.
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+</p>
 ---
 
 ### 🧠 About Me
