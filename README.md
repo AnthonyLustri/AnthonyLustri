@@ -24,19 +24,26 @@ Focused on automation, system reliability, and secure infrastructure operations.
 </p>
 
 <!-- Contact Buttons -->
-<p align="center">
-  <a href="https://github.com/AnthonyLustri" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/AnthonyLustri" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://linkedin.com/in/anthony-lustri" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td>
+<a href="https://discord.com/users/TechyANT" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
-  <a href="https://linkedin.com/in/anthony-lustri" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://discord.com/users/TechyANT" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</p>
 
 ---
 
