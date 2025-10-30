@@ -1,8 +1,10 @@
 <p align="center">
   <svg width="100%" height="90">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-    font-family="Consolas, Courier New, monospace" font-size="44" fill="#00C2FF"
-    style="filter: drop-shadow(0px 0px 6px #00C2FF);">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+      font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+      font-size="42" fill="#00A3FF">
+      <animate attributeName="fill" values="#0094FF;#4DC3FF;#0094FF" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite" />
       Anthony Lustri
     </text>
   </svg>
