@@ -1,10 +1,16 @@
 <h1 align="center">Anthony Lustri</h1>
 <h3 align="center">IT System Administrator</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=500&size=18&duration=3000&pause=800&color=0078F3&center=true&vCenter=true&width=550&lines=Infrastructure+Automation+%7C+System+Security;Server+Administration+%26+Monitoring;Python+%26+PowerShell+Automation;Improving+Systems+Every+Day" alt="Typing animation"/>
+</p>
+
 <p align="center">
 Focused on automation, system reliability, and secure infrastructure operations.
 </p>
 
+<!-- Tech Skill Badges -->
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
@@ -12,8 +18,16 @@ Focused on automation, system reliability, and secure infrastructure operations.
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shIELDS.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+</p>
+
+<!-- Contact Buttons -->
+<p align="center">
+  <a href="https://github.com/AnthonyLustri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/AnthonyLustri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/TechyANT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,10 +44,10 @@ I enjoy solving infrastructure challenges with code and continually improving sy
 ### 🛠️ Technical Skills
 
 **Programming & Scripting**  
-Python • PowerShell • Bash/CMD • C# • .NET • VB.NET • Java • PHP • HTML • XML • JSON  
+Python • PowerShell • Bash/CMD • C# • .NET • VB.NET • Java • PHP • HTML • CSS • XML • JSON  
 
 **Systems & Tools**  
-SailPoint • VMware Workspace • GitHub • Windows Server 
+SailPoint • VMware Workspace • GitHub • Windows Server  
 
 **Databases**  
 MySQL • Oracle  
