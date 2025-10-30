@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://yourfuture-gif-link.com/anthony-lustri-blue-glow.gif" width="600"/>
-</p>
-
+<h1 align="center">Anthony Lustri</h1>
 
 </p>
 <h3 align="center">IT System Administrator</h3>
