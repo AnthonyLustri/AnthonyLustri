@@ -21,7 +21,7 @@ I enjoy solving infrastructure challenges with code and continually improving sy
 **Programming & Scripting**  
 Python • PowerShell • Bash/CMD • C# • .NET • VB.NET • Java • PHP • HTML • XML • JSON  
 
-**Systems, IAM & Tools**  
+**Systems & Tools**  
 SailPoint • VMware Workspace • GitHub • Windows Server 
 
 **Databases**  
@@ -47,9 +47,7 @@ Infrastructure Administration • Automation • System Hardening • Backup & D
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&theme=default&hide_border=false&include_all_commits=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLustri&theme=default&hide_border=false" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&theme=default&hide_border=false&include_all_commits=true" /></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLustri&layout=compact&theme=default&hide_border=false" />
