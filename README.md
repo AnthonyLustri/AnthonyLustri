@@ -1,16 +1,5 @@
 <p align="center">
-  <svg width="100%" height="80">
-    <defs>
-      <linearGradient id="blueGrad" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00A3FF"/>
-        <stop offset="70%" stop-color="#4DC3FF"/>
-        <stop offset="100%" stop-color="#0077FF"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="55%" font-size="42" text-anchor="middle" fill="url(#blueGrad)" font-family="Segoe UI, sans-serif">
-      Anthony Lustri
-    </text>
-  </svg>
+  <img src="https://yourfuture-gif-link.com/anthony-lustri-blue-glow.gif" width="600"/>
 </p>
 
 
