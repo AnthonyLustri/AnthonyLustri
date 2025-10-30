@@ -18,22 +18,24 @@ Focused on automation, system reliability, and secure infrastructure operations.
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-<img src="https://img.shIELDS.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
 </p>
 
 <!-- Contact Buttons -->
 <p align="center">
-<a href="https://github.com/AnthonyLustri" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/anthony-lustri" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/TechyANT" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+  <a href="https://github.com/AnthonyLustri" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <a href="https://linkedin.com/in/anthony-lustri" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://discord.com/users/TechyANT" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </p>
 
 ---
