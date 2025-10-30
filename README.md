@@ -1,8 +1,13 @@
 <p align="center">
-  <span style="font-size:40px; font-weight:bold; color:#08A9FF; text-shadow:0px 0px 12px #0ab8ff;">
-    Anthony Lustri
-  </span>
+  <svg width="100%" height="90">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Consolas, Courier New, monospace" font-size="44" fill="#00C2FF"
+    style="filter: drop-shadow(0px 0px 6px #00C2FF);">
+      Anthony Lustri
+    </text>
+  </svg>
 </p>
+
 </p>
 <h3 align="center">IT System Administrator</h3>
 
