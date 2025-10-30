@@ -1,5 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=38&duration=3000&pause=600&color=00A2FF&center=true&vCenter=true&width=500&lines=Anthony+Lustri" />
+  <svg width="100%" height="80">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00A3FF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0066FF;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Segoe UI, Roboto, Arial" font-size="42" fill="url(#grad)">
+      Anthony Lustri
+    </text>
+  </svg>
 </p>
 </p>
 <h3 align="center">IT System Administrator</h3>
