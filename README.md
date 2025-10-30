@@ -1,4 +1,6 @@
-<h1 align="center">Anthony Lustri</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=38&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=435&lines=Anthony+Lustri" alt="Anthony Lustri"/>
+</p>
 <h3 align="center">IT System Administrator</h3>
 
 <!-- Typing Animation -->
