@@ -1,13 +1,11 @@
 <h1 align="center">Anthony Lustri</h1>
 <p align="center">
   <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="100" alt="CompTIA A+">
-  </a>
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="100" alt="Network+">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="100" alt="IT Operations Specialist">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="130" alt="CompTIA A+" style="margin: 0 15px;">
+  </a><a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="130" alt="CompTIA Network+" style="margin: 0 15px;">
+  </a><a href="#">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="130" alt="IT Operations Specialist" style="margin: 0 15px;">
   </a>
 </p>
 
