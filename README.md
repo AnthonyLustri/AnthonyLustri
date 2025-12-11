@@ -1,8 +1,6 @@
 <h1 align="center">Anthony Lustri</h1>
 <table align="center">
   <tr>
-<table align="center">
-  <tr>
     <td align="center" style="padding: 0 20px;">
       <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
         <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="130" alt="CompTIA A+">
