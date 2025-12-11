@@ -1,8 +1,4 @@
 <h1 align="center">Anthony Lustri</h1>
-
-
-
-
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 20px;">
@@ -24,11 +20,6 @@
     </td>
   </tr>
 </table>
-</p>
-
-
-
-
 <h3 align="center">IT System Administrator</h3>
 
 <!-- Typing Animation -->
