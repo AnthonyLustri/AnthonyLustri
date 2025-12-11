@@ -1,25 +1,15 @@
 <h1 align="center">Anthony Lustri</h1>
 <p align="center">
-<!-- CompTIA A+ -->
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19" 
-     target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" 
-         alt="CompTIA A+ Certified" width="100" />
+  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="100" alt="CompTIA A+">
   </a>
-
-  <!-- CompTIA Network+ -->
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55" 
-     target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" 
-         alt="CompTIA Network+ Certified" width="100" />
+  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="100" alt="Network+">
   </a>
-
-  <!-- CompTIA IT Operations Specialist (CIOS) -->
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" 
-         alt="CompTIA IT Operations Specialist" width="100" />
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="100" alt="IT Operations Specialist">
   </a>
-  </p>
+</p>
 
 </p>
 <h3 align="center">IT System Administrator</h3>
