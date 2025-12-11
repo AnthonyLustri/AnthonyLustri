@@ -3,25 +3,31 @@
 <!-- Certification Badges -->
 <table align="center">
   <tr>
+
+    <!-- CompTIA A+ -->
     <td align="center" style="padding: 0 20px;">
       <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
         <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="130" alt="CompTIA A+">
       </a>
     </td>
 
+    <!-- CompTIA Network+ -->
     <td align="center" style="padding: 0 20px;">
       <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
         <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="130" alt="CompTIA Network+">
       </a>
     </td>
 
+    <!-- CompTIA CIOS -->
     <td align="center" style="padding: 0 20px;">
       <a href="#">
         <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="130" alt="CompTIA CIOS">
       </a>
     </td>
+
   </tr>
 </table>
+
 
 <br>
 
