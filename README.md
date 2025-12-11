@@ -1,21 +1,23 @@
 <h1 align="center">Anthony Lustri</h1>
 <table align="center">
   <tr>
-    <td align="center">
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 20px;">
       <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
-        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="100" alt="CompTIA A+">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="130" alt="CompTIA A+">
       </a>
     </td>
 
-    <td align="center">
+    <td align="center" style="padding: 0 20px;">
       <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
-        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="100" alt="CompTIA Network+">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="130" alt="CompTIA Network+">
       </a>
     </td>
 
-    <td align="center">
+    <td align="center" style="padding: 0 20px;">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="100" alt="CIOS">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="130" alt="CompTIA CIOS">
       </a>
     </td>
   </tr>
