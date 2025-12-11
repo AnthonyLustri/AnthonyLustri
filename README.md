@@ -107,12 +107,14 @@ Infrastructure Administration • Automation • System Hardening • Backup & D
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=AnthonyLustri&show_icons=true&hide_border=false&include_all_commits=true" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLustri&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AnthonyLustri&layout=compact&hide_border=false" />
 </p>
+
 
 ---
 
