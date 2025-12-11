@@ -21,8 +21,6 @@
   </tr>
 </table>
 
-<br>
-
 <h3 align="center">IT System Administrator</h3>
 
 <!-- Typing Animation -->
