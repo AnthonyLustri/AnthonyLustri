@@ -1,15 +1,25 @@
 <h1 align="center">Anthony Lustri</h1>
-<p align="center">
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="100" alt="CompTIA A+" style="display: inline-block; margin: 0 15px; border: none;">
-  </a>
-  <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="100" alt="CompTIA Network+" style="display: inline-block; margin: 0 15px; border: none;">
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="100" alt="IT Operations Specialist" style="display: inline-block; margin: 0 15px; border: none;">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/ba43e827a71a4a04abd4892cc0090d19">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/CompTIA%20A%2B.png" width="130" alt="CompTIA A+">
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/25f86e9d3f694b00ae30e8766e153b55">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/Network%2B.png" width="130" alt="CompTIA Network+">
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/AnthonyLustri/AnthonyLustri/main/Badges/COMPTIA/IT%20Operations%20Specialist.png" width="130" alt="CIOS">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </p>
 <h3 align="center">IT System Administrator</h3>
