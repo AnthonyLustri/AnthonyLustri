@@ -1,4 +1,6 @@
 <h1 align="center">Anthony Lustri</h1>
+
+<!-- Certification Badges -->
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 20px;">
@@ -20,6 +22,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+
 <h3 align="center">IT System Administrator</h3>
 
 <!-- Typing Animation -->
@@ -65,7 +70,6 @@ Focused on automation, system reliability, and secure infrastructure operations.
 </tr>
 </table>
 
-
 ---
 
 ### 🧠 About Me
@@ -98,17 +102,18 @@ Infrastructure Administration • Automation • System Hardening • Backup & D
 
 ### 🚀 Current Focus
 
-- Python-based server automation
-- Secure infrastructure & access management
-- Backup & recovery automation
-- Network & system monitoring tools
+- Python-based server automation  
+- Secure infrastructure & access management  
+- Backup & recovery automation  
+- Network & system monitoring tools  
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&theme=default&hide_border=false&include_all_commits=true" /></p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnthonyLustri&show_icons=true&theme=default&hide_border=false&include_all_commits=true" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyLustri&layout=compact&theme=default&hide_border=false" />
